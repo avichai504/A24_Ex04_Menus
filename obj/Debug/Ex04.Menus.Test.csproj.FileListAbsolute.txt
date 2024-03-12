@@ -1,0 +1,15 @@
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\Ex04.Menus.Test.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe.config
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.pdb
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Delegates.dll
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe
+C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.pdb
