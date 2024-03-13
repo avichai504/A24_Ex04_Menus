@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|c:\\myprograms\\visualstudiocode\\a24_ex04_menus\\test\\delegatesmenutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|solutionrelative:test\\delegatesmenutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\test\\interfacemenutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A0BD7-7F63-4219-B88F-6221CACF2626}|Ex04.Menus.Test.csproj|solutionrelative:test\\interfacemenutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8261D3E-9A9F-45B1-A7A7-293749AA8261}|..\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj|C:\\MyPrograms\\VisualStudioCode\\ex04.menus.delegates\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8261D3E-9A9F-45B1-A7A7-293749AA8261}|..\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj|C:\\MyPrograms\\VisualStudioCode\\ex04.menus.delegates\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceMenuTest.cs",
+              "DocumentMoniker": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Test\\InterfaceMenuTest.cs",
+              "RelativeDocumentMoniker": "Test\\InterfaceMenuTest.cs",
+              "ToolTip": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Test\\InterfaceMenuTest.cs",
+              "RelativeToolTip": "Test\\InterfaceMenuTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:49.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\MyPrograms\\VisualStudioCode\\Ex04.Menus.Delegates\\MenuItem.cs",
+              "RelativeDocumentMoniker": "..\\Ex04.Menus.Delegates\\MenuItem.cs",
+              "ToolTip": "C:\\MyPrograms\\VisualStudioCode\\Ex04.Menus.Delegates\\MenuItem.cs",
+              "RelativeToolTip": "..\\Ex04.Menus.Delegates\\MenuItem.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\MyPrograms\\VisualStudioCode\\Ex04.Menus.Delegates\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\Ex04.Menus.Delegates\\Menu.cs",
+              "ToolTip": "C:\\MyPrograms\\VisualStudioCode\\Ex04.Menus.Delegates\\Menu.cs",
+              "RelativeToolTip": "..\\Ex04.Menus.Delegates\\Menu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwC4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegatesMenuTest.cs",
+              "DocumentMoniker": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Test\\DelegatesMenuTest.cs",
+              "RelativeDocumentMoniker": "Test\\DelegatesMenuTest.cs",
+              "ToolTip": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Test\\DelegatesMenuTest.cs",
+              "RelativeToolTip": "Test\\DelegatesMenuTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MyPrograms\\VisualStudioCode\\A24_Ex04_Menus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:01:50.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

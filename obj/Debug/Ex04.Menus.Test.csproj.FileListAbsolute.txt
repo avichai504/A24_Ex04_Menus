@@ -13,3 +13,17 @@ C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\bin\D
 C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
 C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe
 C:\VisualStudioCode\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.pdb
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe.config
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.pdb
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Delegates.dll
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\obj\Debug\Ex04.Men.94AED04F.Up2Date
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.exe
+C:\MyPrograms\VisualStudioCode\A24_Ex04_Menus\obj\Debug\A24 Ex04 NeomiBashari 207087487 AvichaiGalOr 207051848.pdb
